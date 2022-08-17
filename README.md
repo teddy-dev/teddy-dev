@@ -7,6 +7,10 @@ _None of my projects will feature paywalls. Everything will always be free, fore
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teddy)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/teddydev)
+
+
+_This is not my professional account!  
+Please contact to get in touch._ 
 <!---
 https://img.shields.io/badge/Teddy%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white
 teddy-dev/teddy-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
